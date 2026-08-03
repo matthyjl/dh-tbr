@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-Welcome to TBR, a digital collection created as part of a Digital Humanities course using CollectionBuilder.
+Welcome to TBR, a digital collection created as part of a Digital Humanities course using GH-CB.
 
 This project explores how digital collections can be created, organized, and shared using metadata and open web technologies. Rather than showcasing archival materials or museum objects, this collection documents a personal to-be-read (TBR) list. Each book has been described using structured metadata, allowing the collection to be browsed, searched, and explored in different ways.
 
