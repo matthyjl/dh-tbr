@@ -14,14 +14,8 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Welcome to TBR, a digital collection created as part of a Digital Humanities course using CollectionBuilder.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This project explores how digital collections can be created, organized, and shared using metadata and open web technologies. Rather than showcasing archival materials or museum objects, this collection documents a personal to-be-read (TBR) list. Each book has been described using structured metadata, allowing the collection to be browsed, searched, and explored in different ways.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The books included here represent titles I hope to read after completing my MLIS -- after years of reading course materials, research articles, and required texts, this collection marks a return to reading simply for enjoyment.
